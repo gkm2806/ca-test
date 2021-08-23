@@ -1,0 +1,9 @@
+user:
+  - email
+  - name
+  - password
+
+message:
+  - description
+  - date
+  - toUser
